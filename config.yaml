@@ -1,6 +1,6 @@
 baseURL: "https://arkalim.netlify.app"
 languageCode: en-us
-title: Abdur Rahman
+title: Vishnu Unnikrishnan
 theme: PaperMod
 
 menu:
@@ -9,21 +9,21 @@ menu:
       name: Home
       url: /
       weight: 10
-    - identifier: blog
-      name: Blog
-      url: /blog
-      weight: 20
     - identifier: projects
       name: Projects
       url: /projects
+      weight: 20
+    - identifier: blog
+      name: Blog
+      url: /blog
       weight: 30
-    - identifier: experience
-      name: Experience
-      url: /experience
+    - identifier: skills
+      name: Skills
+      url: /skills
       weight: 40
-    - identifier: search
-      name: Search
-      url: /search
+    - identifier: resume
+      name: Resume
+      url: /files/resume.pdf
       weight: 50
     # - identifier: tags
     #   name: Tags
@@ -48,11 +48,14 @@ params:
   # Home Page
   profileMode:
     enabled: true
-    title: "Abdur Rahman"
-    subtitle: Hi 👋 I'm Abdur, a tech enthusiast who loves solving complex problems. As a Software Developer in the Backend Infrastructure team at [**Clio**](https://www.clio.com), I'm building robust systems to transform the legal experience for all. By evening, you can find me pushing the limits of my strength at the gym or whipping up my favorite recipe in the kitchen. Let's connect and create something awesome together!
+    title: "Vishnu Unnikrishnan"
+    subtitle: |
+      First-Year Master's student studying Statistics at [**Department of Statistics, CUSAT**](https://stats.cusat.ac.in/). My interests are in Statistical Learning and Applied Data Science. Apart from this, I am also into Public Speaking. I completed my Bachelor's in Mathematics from [**St. Thomas College (Autonomous), Thrissur**](https://stthomas.ac.in/).
+
+      Free free to drop an email!
 
  
-    imageUrl: "home/casual-small-square.jpeg"
+    imageUrl: "home/formals-square.png"
     imageWidth: 220
     imageHeight: 220
     # buttons:
@@ -69,13 +72,14 @@ params:
 
   socialIcons:
     - name: "email"
-      url: "mailto:abdur.rahman.kalim@gmail.com"
+      url: "mailto:vishnuunk@gmail.com"
+    - name: "twitter"
+      url: "https://x.com/getalifevishnu?s=21"
     - name: "linkedin"
-      url: "https://www.linkedin.com/in/abdurrahmankalim"
+      url: "https://www.linkedin.com/in/vishnu-unnikrishnan-539504223/"
     - name: "github"
-      url: "https://github.com/arkalim"
-    - name: "youtube"
-      url: "https://www.youtube.com/c/AbdurRahmanKalim"
+      url: "https://github.com/vishnuunk"
+    
 
   # text search
   fuseOpts:
