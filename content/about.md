@@ -86,9 +86,12 @@ summary: "Personal interests, debating milestones, conferences, and background."
 
 <section class="incident-section">
   <h2 class="incident-title">Bharatanatyam</h2>
-  <div class="incident-description">
-    <p>
-      Trained classical dancer in Bharatanatyam; completed my Arangetram (debut solo graduation performance) at the age of 11.
-    </p>
+  <div class="gallery-bharatanatyam">
+    <img src="/images/about/bharatanatyam.jpg" alt="Bharatanatyam" />
+    <div class="incident-description">
+      <p>
+        Trained classical dancer in Bharatanatyam; completed my Arangetram (debut solo graduation performance) at the age of 11.
+      </p>
+    </div>
   </div>
 </section>

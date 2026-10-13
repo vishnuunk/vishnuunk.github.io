@@ -366,3 +366,39 @@
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.12);
 }
 
+/* Bharatanatyam single portrait photo */
+.gallery-bharatanatyam {
+    display: flex;
+    gap: 1.5rem;
+    align-items: center;
+    margin: 1rem 0 0.5rem 0;
+}
+
+.gallery-bharatanatyam img {
+    width: 220px;
+    max-width: 100%;
+    flex-shrink: 0;
+    height: auto;
+    border-radius: var(--radius);
+    border: 1px solid var(--border);
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.07);
+}
+
+.gallery-bharatanatyam .incident-description {
+    flex: 1;
+}
+
+@media (max-width: 600px) {
+    .gallery-bharatanatyam {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 1rem;
+    }
+}
+
+[data-theme="dark"] .gallery-bharatanatyam img {
+    box-shadow: 0 2px 14px rgba(0, 0, 0, 0.3);
+}
+
+
+
