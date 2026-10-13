@@ -36,6 +36,7 @@ menu:
 
 params:
   # theme
+  defaultTheme: auto
   showToc: true
   TocOpen: false
   ShowBreadCrumbs: true
@@ -55,8 +56,8 @@ params:
       Feel free to drop an email or - even better - message me on [**LinkedIn**](https://www.linkedin.com/in/vishnu-unk/)!
  
     imageUrl: "home/profile.jpg?v=1"
-    imageWidth: 220
-    imageHeight: 220
+    imageWidth: 28
+    imageHeight: 28
     # buttons:
     #   - name: Resume
     #     url: ""
