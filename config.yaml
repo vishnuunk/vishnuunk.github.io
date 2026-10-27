@@ -23,7 +23,7 @@ menu:
       weight: 25
     - identifier: resume
       name: Resume
-      url: /files/resume.pdf
+      url: /files/resume_vishnu_cv.pdf
       weight: 30
     # - identifier: tags
     #   name: Tags
