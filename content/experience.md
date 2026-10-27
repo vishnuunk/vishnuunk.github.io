@@ -14,11 +14,12 @@ summary: "Professional internships and research experience in biostatistics, dat
     <span class="experience-date">May 2026 – Ongoing</span>
   </div>
   <div class="experience-org">
-    <span class="experience-org-name">Intern, Biostatistics</span>
+    <span class="experience-org-name">Research Intern, Biostatistician</span>
     <span class="experience-location">Chennai, India</span>
   </div>
   <ul class="experience-bullets">
     <li>Working with the Translational Biomarker Statistics Team within Pfizer Data Science & Analytics (DSA) India on developing a novel methodology for high-dimensional feature selection for biomarker data.</li>
+    <li>Research work broadly lies in areas of Precision Medicine, Omics Biomarkers, High Dimensional Statistics, and ML. Publication in progress.</li>
   </ul>
 </section>
 
