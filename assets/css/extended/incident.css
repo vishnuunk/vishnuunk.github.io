@@ -400,5 +400,19 @@
     box-shadow: 0 2px 14px rgba(0, 0, 0, 0.3);
 }
 
+/* Photo caption text */
+.photo-caption {
+    font-size: 0.92rem;
+    line-height: 1.55;
+    color: var(--secondary);
+    margin: -0.35rem 0 1.75rem 0;
+}
+
+.photo-caption strong {
+    color: var(--content);
+}
+
+
+
 
 

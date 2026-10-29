@@ -40,7 +40,8 @@ summary: "Personal interests, debating milestones, conferences, and background."
 <section class="incident-section">
   <h2 class="incident-title">Public Speaking & Debating</h2>
   <div class="gallery-speaking">
-    <img src="/images/about/speaking-1.jpg" alt="Public speaking" />
+    <img src="/images/about/speaking-1.jpg" alt="Maria Philip Memorial Future Leaders Debate Competition" />
+    <p class="photo-caption">Receiving the award from Ambassador C.P. Ravindranathan (ex-IFS) (standing right), with Prof. J Philip (ex-Director IIM B) (seated left).</p>
     <img src="/images/about/speaking-2.jpg" alt="Debate competition" />
     <img src="/images/about/speaking-3.jpg" alt="Oratory event" />
   </div>
@@ -75,6 +76,7 @@ summary: "Personal interests, debating milestones, conferences, and background."
   <h2 class="incident-title">Basic Instructional School on Stochastic Processes (BISSP)</h2>
   <div class="gallery-bissp">
     <img src="/images/about/bissp-1.jpg" alt="BISSP at NISER Bhubaneswar" />
+    <p class="photo-caption">With Legendary Prof. B V Rao (ISI & CMI).</p>
     <img src="/images/about/bissp-2.jpg" alt="BISSP group photo" />
   </div>
   <div class="incident-description">
