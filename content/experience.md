@@ -44,7 +44,7 @@ summary: "Professional internships and research experience in biostatistics, dat
   <div class="experience-header">
     <div class="experience-title-wrap">
       <img src="/images/logos/kerala_gov.jpg" alt="Govt. of Kerala Logo" class="experience-logo" />
-      <h2 class="experience-title"><a href="https://www.ecostat.kerala.gov.in/" target="_blank" rel="noopener noreferrer">Department of Economics and Statistics, Govt. of Kerala</a></h2>
+      <h2 class="experience-title">Department of Economics and Statistics</h2>
     </div>
     <span class="experience-date">Dec. 2022 – Jan. 2023</span>
   </div>
