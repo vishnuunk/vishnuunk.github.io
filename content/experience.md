@@ -53,6 +53,6 @@ summary: "Professional internships and research experience in biostatistics, dat
     <span class="experience-location">Thrissur, Kerala</span>
   </div>
   <ul class="experience-bullets">
-    <li>Worked on 'Predictive modeling of Paddy Production and Yield' project for the Government of Kerala. Utilized Time Series models to forecast paddy yield (Winter Season 2023) based on 4 years of data (varieties, cultivation area, irrigation etc.). Delivered critical data-driven insights for government agricultural planning and policymaking.</li>
+    <li>Worked on 'Predictive modeling of Paddy Production and Yield' project for the Government of Kerala. Utilized Time Series models to forecast paddy yield (Winter Season 2023) based on 4 years of data (varieties, cultivation area, irrigation etc.).</li>
   </ul>
 </section>
