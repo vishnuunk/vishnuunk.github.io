@@ -14,7 +14,7 @@ summary: "Professional internships and research experience in biostatistics, dat
     <span class="experience-date">May 2026 – Ongoing</span>
   </div>
   <div class="experience-org">
-    <span class="experience-org-name">Research Intern, Biostatistician</span>
+    <span class="experience-org-name">Intern, Biostatistics</span>
     <span class="experience-location">Chennai, India</span>
   </div>
   <ul class="experience-bullets">
