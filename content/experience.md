@@ -9,7 +9,7 @@ summary: "Professional internships and research experience in biostatistics, dat
   <div class="experience-header">
     <div class="experience-title-wrap">
       <img src="/images/logos/pfizer.png" alt="Pfizer Logo" class="experience-logo" />
-      <h2 class="experience-title"><a href="https://www.pfizer.com/" target="_blank" rel="noopener noreferrer">Pfizer India</a></h2>
+      <h2 class="experience-title">Pfizer India</h2>
     </div>
     <span class="experience-date">May 2026 – Ongoing</span>
   </div>
@@ -26,7 +26,7 @@ summary: "Professional internships and research experience in biostatistics, dat
   <div class="experience-header">
     <div class="experience-title-wrap">
       <img src="/images/logos/icmr.png" alt="ICMR Logo" class="experience-logo" />
-      <h2 class="experience-title"><a href="https://nie.gov.in/" target="_blank" rel="noopener noreferrer">ICMR – National Institute of Epidemiology</a></h2>
+      <h2 class="experience-title">ICMR – National Institute of Epidemiology</h2>
     </div>
     <span class="experience-date">May 2025 – July 2025</span>
   </div>
