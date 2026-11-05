@@ -73,6 +73,8 @@ params:
       url: "https://x.com/getalifevishnu?s=21"
     - name: "linkedin"
       url: "https://www.linkedin.com/in/vishnu-unk/"
+    - name: "github"
+      url: "https://github.com/vishnuunk"
     
 
   # text search
